@@ -1,0 +1,1 @@
+this folder should contain the documentation, in latex or similar or with an code documentation tool, exported as PDF and optionally in HTML
